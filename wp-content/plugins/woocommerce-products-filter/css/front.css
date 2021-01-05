@@ -179,7 +179,7 @@ p:hover.woof_tooltip span.woof_tooltip_data {
 
 .woof_products_top_panel li span{
     padding-right: 16px;
-    background: url(../img/delete.png);
+    background: url(http://cashewcornerstore.github.io/store/wp-content/plugins/woocommerce-products-filter/img/delete.png);
     background-size: 12px 12px;
     background-repeat: no-repeat;
     background-position: right;
@@ -260,7 +260,7 @@ p:hover.woof_tooltip span.woof_tooltip_data {
 
 
 .woof_show_auto_form, .woof_hide_auto_form{
-    background: url("../img/autoshow_button.png");
+    background: url("http://cashewcornerstore.github.io/store/wp-content/plugins/woocommerce-products-filter/img/autoshow_button.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -314,11 +314,11 @@ p:hover.woof_tooltip span.woof_tooltip_data {
 }
 
 .woof_childs_list_opener span.woof_is_closed{
-    background: url(../img/plus2.png);
+    background: url(http://cashewcornerstore.github.io/store/wp-content/plugins/woocommerce-products-filter/img/plus2.png);
 }
 
 .woof_childs_list_opener span.woof_is_opened{
-    background: url(../img/minus2.png);
+    background: url(http://cashewcornerstore.github.io/store/wp-content/plugins/woocommerce-products-filter/img/minus2.png);
 }
 
 
